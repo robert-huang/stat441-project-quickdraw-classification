@@ -1,0 +1,30 @@
+Number of classes: 10
+
+Similar classes:
+Test loss: 0.4633625543305276
+Test accuracy: 0.8679958433166348
+
+Different classes:
+Test loss: 0.21703208860938547
+Test accuracy: 0.9656102946096032
+
+
+Number of classes: 8
+
+Similar classes:
+Test loss: 0.4267095388619291 
+Test accuracy: 0.8928570008210952
+
+Different classes:
+Test loss: 0.21118382092068025
+Test accuracy: 0.9669338207724034
+
+Number of classes: 6
+
+Similar classes:
+Test loss: 0.4222668173482078
+Test accuracy: 0.8980068506629182
+
+Different classes:
+Test loss: 0.149911787266721
+Test accuracy: 0.9778023407022106
